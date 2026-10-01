@@ -49,7 +49,7 @@ python code/02_baseline_model.py
 
 ## Tools
 
-Python, Pandas, Matplotlib, Seaborn, scikit-learn, Google Colab, Excel, PowerPoint, Generative AI.
+Python, Pandas, Matplotlib, Google Colab, Excel, PowerPoint, Generative AI.
 
 ## Limitations
 
